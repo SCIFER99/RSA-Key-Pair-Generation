@@ -13,7 +13,8 @@ Step1: Make sure to install these packages before PKI project development:
        pip3 install tempfile
        pip3 install requests
        pip3 install crypto
+       pip3 install RNG
        
-Step2: That is all for now! I will be back! 
+Step2: In case the RNG package does not install properly, I have provided the RNG package files separately for manual installation!
 
 Happy Coding! 
